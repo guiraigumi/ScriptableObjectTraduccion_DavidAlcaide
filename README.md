@@ -1,0 +1,1 @@
+# ScriptableObjectTraduccion_DavidAlcaide
